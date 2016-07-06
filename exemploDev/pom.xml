@@ -62,6 +62,8 @@
 	</distributionManagement>
 
 	<scm>
-		<developerConnection>scm:svn:http://svn.dugregorio.com.br/svn/sdg/trunk/arquito</developerConnection>
+		<url>https://github.com/viniciussousa/devmedia</url>
+		<connection>scm:git:git://github.com/viniciussousa/devmedia.git</connection>
+		<developerConnection>scm:git:git@github.com:viniciussousa/devmedia.git</developerConnection>
 	</scm>
 </project>
